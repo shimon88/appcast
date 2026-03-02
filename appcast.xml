@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MyNovocure Patient App - V&amp;V</title>
+    <item>
+      <title>Version 2.0.0</title>
+      <description>Release notes for 2.0.0</description>
+      <pubDate>Mon, 02 Mar 2025 12:00:00 +0000</pubDate>
+      <enclosure url="https://your-vv-server.com/download/patient-app-2.0.0" sparkle:version="2.0.0" />
+      <!-- Optional: force upgrade -->
+      <!-- <sparkle:tags><sparkle:criticalUpdate /></sparkle:tags> -->
+    </item>
+  </channel>
+</rss>
